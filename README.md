@@ -17,3 +17,18 @@
  - **Sentiment Analysis** focuses on analyzing and understanding emotions from subjective text patterns and is enabled through text mining. It identifies the opinions and attitudes of individuals towards certain topics, and it is useful in classifying viewpoints as positive or negative.
  
  - **Recommendation Systems** Powerful recommendation engines can be built for anything from movies and videos to music, books, and products as offered by Netflix, Pandora, or Amazon.
+
+## Installing Spark without a Docker container
+
+Run all of these commands, following the instructions above to ensure that each step works as expected:
+- conda activate base
+- conda create --name spark-env python=3.8
+- conda activate spark-env
+- conda install -c conda-forge openjdk=11
+- pip install pyspark==3
+- conda install -c conda-forge notebook
+- python -m ipykernel install --user --name spark-env --display-name "Python (spark-env)"
+- conda install matplotlib
+- jupyter notebook
+
+**Machine Learning on the scale of big data can be done with Spark using the `ml` library**
