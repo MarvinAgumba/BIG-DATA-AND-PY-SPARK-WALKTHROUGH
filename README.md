@@ -6,6 +6,18 @@
 
 ![image](https://github.com/MarvinAgumba/BIG-DATA-AND-PY-SPARK-WALKTHROUGH/assets/122484885/647317b6-0fcc-4287-88d2-801e24263454)
 
+## VOLUME - **amount of data** generated through websites, portals, and online applications in a data-driven business
+
+![image](https://github.com/MarvinAgumba/BIG-DATA-AND-PY-SPARK-WALKTHROUGH/assets/122484885/1fb35e24-a90b-494e-b990-a524ee79ed7f)
+
+## VELOCITY - the speed with which data is generated, and as internet speeds have increased and the number of users has increased, the velocity has also increased substantially
+
+![image](https://github.com/MarvinAgumba/BIG-DATA-AND-PY-SPARK-WALKTHROUGH/assets/122484885/29e4dc92-5559-4472-b0d2-56899661cbaf)
+
+## VARIETY - the structured and unstructured data that has the possibility of getting generated either by humans or by machines
+
+![image](https://github.com/MarvinAgumba/BIG-DATA-AND-PY-SPARK-WALKTHROUGH/assets/122484885/2fa3db29-dd5f-480c-88f6-e13964b22b20)
+
 ## Big Data Analytics Tools
 
 ![image](https://github.com/MarvinAgumba/BIG-DATA-AND-PY-SPARK-WALKTHROUGH/assets/122484885/9f162189-c656-4519-903d-d34264f94312)
