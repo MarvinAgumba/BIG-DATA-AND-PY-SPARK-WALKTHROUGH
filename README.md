@@ -20,7 +20,7 @@
 
 ## Installing Spark without a Docker container
 
-Run all of these commands, following the instructions above to ensure that each step works as expected:
+Run below commands to ensure that each step works as expected:
 - conda activate base
 - conda create --name spark-env python=3.8
 - conda activate spark-env
